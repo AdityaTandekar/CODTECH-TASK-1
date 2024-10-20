@@ -1,3 +1,4 @@
+![Screenshot (12)](https://github.com/user-attachments/assets/297ebbf5-7922-4917-a24b-0289c545e2fe)
 # CODTECH-TASK-1
 
 *Name:* ADITYA TANDEAR<BR>
@@ -33,4 +34,6 @@ JavaScript is used since it adds interactivity to web pages, such as drop-down m
 
 OUTPUT SCREENSHOTS:
 ![Screenshot (11)](https://github.com/user-attachments/assets/e52923b3-8470-4cc0-b027-081bb78d1409)
+
+![Screenshot (12)](https://github.com/user-attachments/assets/1474e8bf-39ee-4d3f-aae9-b276ef648ce2)
 
