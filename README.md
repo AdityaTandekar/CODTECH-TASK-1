@@ -1,4 +1,4 @@
-![Screenshot (12)](https://github.com/user-attachments/assets/297ebbf5-7922-4917-a24b-0289c545e2fe)
+
 # CODTECH-TASK-1
 
 *Name:* ADITYA TANDEAR<BR>
